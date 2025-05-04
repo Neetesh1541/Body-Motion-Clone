@@ -2,11 +2,6 @@
 
 This project creates a real-time interactive **clone motion** beside your live webcam feed using **MediaPipe** and **OpenCV**, complete with glowing stick figure visuals and dynamic color transitions. It also provides a **3D plot** of your pose for enhanced visualization using **Matplotlib**.
 
----
-
-## 📸 Demo
-
-> A mirror-image stick figure clone follows your body movements on screen while the corresponding 3D pose is plotted live.
 
 ---
 
