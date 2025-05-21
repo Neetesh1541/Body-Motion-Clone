@@ -18,7 +18,7 @@ POSE_CONNECTIONS = [(11, 12), (11, 13), (13, 15),  # Left Arm
                     (11, 23), (12, 24),  # Upper Body
                     (23, 24), (23, 25), (24, 26),  # Hips
                     (25, 27), (26, 28),  # Upper Legs
-                    (27, 31), (28, 32)]  # Lower Legs
+                    (27, 31), (28, 31)]  # Lower Legs
 
 # Set up 3D plot
 fig = plt.figure(figsize=(10, 5))
