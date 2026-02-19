@@ -1,4 +1,4 @@
-# Motion detector...
+# Motion detector..
 
 This project creates a real-time interactive **clone motion** beside your live webcam feed using **MediaPipe** and **OpenCV**, complete with glowing stick figure visuals and dynamic color transitions. It also provides a **3D plot** of your pose for enhanced visualization using **Matplotlib**.
 
