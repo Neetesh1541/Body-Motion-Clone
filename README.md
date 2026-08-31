@@ -1,15 +1,15 @@
 # 🕺 Body Motion Clone
 
-A real-time computer-vision project that creates a glowing mirrored body-motion clone beside the webcam feed. It uses pose landmarks to turn human movement into a cyberpunk-style visual experience.
+A real-time **computer-vision experience** that creates a glowing mirrored body-motion clone beside the webcam feed. The project uses pose landmarks to transform human movement into a cyberpunk-style visual experience.
 
 ## ✨ Features
 
-- Real-time pose detection with **MediaPipe**
-- Mirrored glowing stick-figure clone
-- Dynamic visual color transitions
-- Real-time **3D pose visualization** with Matplotlib
-- Smooth overlay blending
-- Webcam-based interaction
+- 🎥 Real-time pose detection with MediaPipe
+- 👤 Mirrored glowing stick-figure clone
+- 🌈 Dynamic visual effects and transitions
+- 🧊 Real-time 3D pose visualization with Matplotlib
+- ✨ Smooth overlay blending
+- 📷 Webcam-based interaction
 
 ## 🛠️ Tech Stack
 
@@ -31,18 +31,18 @@ pip install opencv-python mediapipe matplotlib numpy
 python cyberpunk_dance_clone.py
 ```
 
-Press **q** to exit.
+Press **`q`** to exit.
 
 ## 🧠 How It Works
 
 1. Capture frames from the webcam.
-2. Detect body landmarks using MediaPipe.
+2. Detect body landmarks with MediaPipe.
 3. Mirror and offset the detected pose.
-4. Render a glowing stick figure over the frame.
-5. Visualize the pose coordinates in 3D.
-6. Repeat in real time until the user exits.
+4. Render a glowing stick-figure clone.
+5. Visualize pose coordinates in 3D.
+6. Repeat the pipeline in real time.
 
-## 🔮 Future Ideas
+## 🔮 Future Improvements
 
 - Gesture-based controls
 - Pose recording and playback
